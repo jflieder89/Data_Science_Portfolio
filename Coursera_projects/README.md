@@ -1,1 +1,1 @@
-Here are projects and coursework assignments that show my capabilities in data science.
+Here are my Coursera projects that show my capabilities in data science.
